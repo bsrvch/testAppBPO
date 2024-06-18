@@ -1,0 +1,29 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsrvch/testApp.git"
+  },
+  "type": "module",
+  "keywords": [
+    "-"
+  ],
+  "author": "bsrvch",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bsrvch/testApp/issues"
+  },
+  "homepage": "https://github.com/bsrvch/testApp#readme",
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "express": "^4.19.2",
+    "node-addon-api": "^8.0.0",
+    "open": "^10.1.0"
+  }
+}
